@@ -23,7 +23,7 @@ import (
 
 func main() {
 	if len(os.Args) != 2 {
-		fmt.Println("Usage: dos2unix <filename>")
+		fmt.Println("Usage: dos2unix-go <filename>")
 		os.Exit(1)
 	}
 
