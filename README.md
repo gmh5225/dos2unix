@@ -2,7 +2,7 @@
 
 ## Install
 ``
-go install github.com/gmh5225/dos2unix-go@latest
+go install github.com/gmh5225/dos2unix-go@main
 ``
 
 ## Uninstall
