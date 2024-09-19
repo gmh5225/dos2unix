@@ -9,3 +9,8 @@ go install github.com/gmh5225/dos2unix-go@main
 ``
 where/which dos2unix-go
 ``
+
+## Clean module cache
+``
+go clean -modcache
+``
